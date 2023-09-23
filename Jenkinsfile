@@ -14,5 +14,10 @@ pipeline {
                 sh '${GODOT_EXE} --path ${PROJECT_PATH} --export "HTML5" ${EXPORT_PATH}/index.html'
             }
         }
+        stage('Deploy'){
+            steps{
+                
+            }
+        }
     }
 }
