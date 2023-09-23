@@ -10,14 +10,15 @@ anchor_bottom = 1.0
 alignment = 1
 
 [node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
-margin_top = 284.0
+margin_top = 276.0
 margin_right = 1024.0
-margin_bottom = 315.0
+margin_bottom = 324.0
 alignment = 1
 
 [node name="Label" type="Label" parent="VBoxContainer/HBoxContainer"]
 margin_left = 471.0
 margin_right = 552.0
-margin_bottom = 31.0
+margin_bottom = 48.0
 text = "Hello World
-Yeah im new"
+Yeah im new
+New data"
